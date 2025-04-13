@@ -1,5 +1,18 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Node.js + TypeScript + Tailwind + Next.js
 
+This is a modern web project built using:
+
+- ✅ Next.js 14
+- ✅ TypeScript
+- ✅ Tailwind CSS
+- ✅ App Router structure
+
+## 🚀 Getting Started
+
+```bash
+npm install
+npm run dev
 ## Getting Started
 
 First, run the development server:
